@@ -1,0 +1,38 @@
+body, html{
+    background-color: #cccccc !important;
+    height: 100%;
+    scroll-behavior: smooth;
+
+}
+
+.navbar{
+    background-color: #0d0d4b;
+}
+
+.navbar-brand img {
+    height: 5rem;
+}
+
+/* kolommen op de page*/
+.col-sm{
+    background: white;
+    padding : 60px;
+    margin-right:25px;
+}
+
+.row{
+    text-align: center;
+}
+
+/*link naar andere webpages*/
+a{
+    color: #fe5e00;
+}
+
+img{
+    z-index: 1;
+}
+
+h1{
+    text-align: center;
+}
